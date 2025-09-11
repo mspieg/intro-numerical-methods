@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
 *.slides.html
 peer_review.html
-*template.ipynb.DS_Store
+*template.ipynb
+.DS_Store
